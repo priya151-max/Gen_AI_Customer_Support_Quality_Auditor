@@ -37,6 +37,9 @@ This project is built with a modern, high-performance stack:
 - **Compliance Radar**: Real-time risk prediction based on early call signals.
 
 ---
+### Demo Video
+https://github.com/user-attachments/assets/cec23a93-c9b0-4224-859a-825f680a2b82
+---
 
 ## 📂 Modules & Component Structure
 
